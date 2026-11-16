@@ -77,6 +77,7 @@ An interactive network visualization project that explores information flow thro
 ## 🤝 Connect With Me
 
 - **GitHub:** [Madhugowda2204](https://github.com/Madhugowda2204)
+- **Mail:**madhuvgowda2204@gmail.com
 
 I'm always interested in learning, collaborating and building meaningful technology solutions.
 
